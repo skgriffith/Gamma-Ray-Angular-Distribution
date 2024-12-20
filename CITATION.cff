@@ -1,1 +1,10 @@
-
+cff-version: 1.0.0
+message: ""
+authors:
+- family-names: "Griffith"
+  given-names: "Spencer"
+  orcid: "https://orcid.org/0009-0002-1988-0768"
+title: "Angular distribution of gamma rays produced in proton-proton collisions"
+version: 1.0.0
+date-released: 2024-11-08
+url: "https://github.com/skgriffith/Gamma-Ray-Angular-Distribution"
