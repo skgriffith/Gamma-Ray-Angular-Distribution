@@ -5,6 +5,7 @@ gammappdata.db provides the FLUKA data for double-differential gamma-ray yields 
 The accompanying python module, gammappyield.py, provides a simple use case for the data. This function takes the primary energy and observation angle as arguments and returns a list of pairs, where the first entry is the $x$-value of the bin and the second entry is the yield. There is no interpolation between bins, the primary energy is rounded to the nearest available value. This is intended as an example from which to build on as appropriate for a given simulation. 
 
 Any use of these results should also cite the FLUKA collaborations, specifically the following publications:
+
  "The FLUKA Code: Developments and Challenges for High Energy and Medical Applications"
 T.T. Böhlen, F. Cerutti, M.P.W. Chin, A. Fassò, A. Ferrari, P.G. Ortega, A. Mairani, P.R. Sala, G. Smirnov and V. Vlachoudis,
 Nuclear Data Sheets 120, 211-214 (2014)
