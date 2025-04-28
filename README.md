@@ -6,6 +6,14 @@ The accompanying python module, gammappyield.py, provides a simple use case for 
 
 Any use of these results should also cite the FLUKA collaboration, http://www.fluka.org/fluka.php, specifically the following publications:
 
+["New Capabilities of the FLUKA Multi-Purpose Code"](https://inspirehep.net/literature/2034530) <br />
+C. Ahdida et al, <br />
+Frontiers in Physics 9, 788253 (2022)
+
+["Overview of the FLUKA code"](https://inspirehep.net/literature/1421238) <br />
+G. Battistoni et al, <br />
+Annals of Nuclear Energy 82, 10-18 (2015).
+
 ["The FLUKA Code: Developments and Challenges for High Energy and Medical Applications"](https://inspirehep.net/literature/1619967) <br />
 T.T. Böhlen, F. Cerutti, M.P.W. Chin, A. Fassò, A. Ferrari, P.G. Ortega, A. Mairani, P.R. Sala, G. Smirnov and V. Vlachoudis, <br />
 Nuclear Data Sheets 120, 211-214 (2014)
