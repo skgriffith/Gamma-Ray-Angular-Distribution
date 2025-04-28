@@ -10,6 +10,6 @@ Any use of these results should also cite the FLUKA collaboration, http://www.fl
 T.T. Böhlen, F. Cerutti, M.P.W. Chin, A. Fassò, A. Ferrari, P.G. Ortega, A. Mairani, P.R. Sala, G. Smirnov and V. Vlachoudis, <br />
 Nuclear Data Sheets 120, 211-214 (2014)
 
-"FLUKA: a multi-particle transport code" <br />
+["FLUKA: a multi-particle transport code"](https://inspirehep.net/literature/701721) <br />
 A. Ferrari, P.R. Sala, A. Fasso`, and J. Ranft, <br />
 CERN-2005-10 (2005), INFN/TC_05/11, SLAC-R-773 
